@@ -1,0 +1,20 @@
+body {
+    background-color: green;
+}
+.view {
+    background: url("images/homethird.jpg")no-repeat center center;
+    background-size: cover;
+}
+
+html,
+body,
+header,
+.view {
+    height: 100%;
+}
+.footerheader {
+    font-size: 20px;
+}
+.pix {
+    border-radius: 5px;
+}
